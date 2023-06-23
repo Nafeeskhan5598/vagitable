@@ -1,0 +1,142 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+
+font-size: 1rem;
+padding: 0px 7px;
+padding-bottom: 8px;
+}
+#home{
+    height: 408px;
+    padding: 3px 37px;
+    
+}
+
+#home::before{
+    margin-top: -246px;
+}
+#home h1{
+    margin-top: -133px;
+}
+#home::backdrop{
+    height: 370px;
+    
+}
+#home p{
+    font-size: 13px;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+#services .box img{
+    height: 144px;
+}
+#clients{
+  flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 2px 6px;
+    height: auto;
+}
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+#contact-box form{
+    width: 80%;
+}
+#client-section::before{
+    height: 139%;
+}
+#mrfood{
+    margin-top: -25px;
+  }
+  img{
+    margin: -60px 0px 17px 0px;
+}
+  
+#navbar ul li a:hover{
+    background-color: white;
+       color: rgb(0, 0, 0);
+     
+     }
+     #mantosll{
+        margin: -90px 6px 16px -10px;
+    }
+     #main{
+       margin:"-146px auto";
+     }
+     /* .main_div{
+        width: 100vw;
+        height: 0;
+        /* background-color: #222f3e; 
+        display: grid;
+        place-items: center;
+        margin: 38px 3px 4px -68px;
+      }
+      .center_div{
+        width: 20%;
+        height: auto;
+        /* background: #fff;
+      }
+      .center_div ul {
+        display: flex;
+        justify-content: center;
+      }
+      .center_div ul  li{
+        list-style: none;
+        text-transform: uppercase;
+        font-size: 7rem;
+        padding: 1rem;
+        color: #000000;
+        animation: light 1.3s linear infinite;
+      }
+      .center_div ul  li :first-child{
+        padding-left: 0%;
+      }
+      @keyframes light{
+        0%{
+            color: #2d1336;
+            text-shadow: none;
+      }
+           90%{
+            color: #576574;
+            text-shadow: none;
+            
+      }
+      
+            100%{
+                color: #ff0707;
+                text-shadow: 0 0 1rem #fb0000, 0 0 7rem #00d390;
+            }
+      }
+      
+      .center_div ul  li:nth-child(1){
+        animation-delay: 0s;
+      }
+      .center_div ul  li:nth-child(2){
+        animation-delay: 0.1s;
+      }
+      .center_div ul  li:nth-child(3){
+        animation-delay: 0.2s;
+      }
+      .center_div ul  li:nth-child(4){
+        animation-delay: 0.3s;
+      }
+      .center_div ul  li:nth-child(5){
+        animation-delay: 0.4s;
+      }
+      .center_div ul  li:nth-child(6){
+        animation-delay: 0.5s;
+      } */
+       
